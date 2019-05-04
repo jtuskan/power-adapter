@@ -14,3 +14,5 @@ The following environment variables are supported:
  - `PORT` - The port the webserver runs at. (default 80)
 
 ***The [dotenv](https://github.com/motdotla/dotenv) environment is supported.***
+# power-adapter
+small node express webserver to express an API for RPi GPIO
